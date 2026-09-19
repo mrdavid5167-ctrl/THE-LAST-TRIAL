@@ -1,0 +1,75 @@
+[
+  {
+    "id": "shop_24_7",
+    "name": "24/7 Item Store",
+    "items": [
+      "medkit",
+      "repair_kit",
+      "flowers"
+    ]
+  },
+  {
+    "id": "clothing",
+    "name": "Clothing Store"
+  },
+  {
+    "id": "accessory",
+    "name": "Accessory Store"
+  },
+  {
+    "id": "donate",
+    "name": "Donate Store"
+  },
+  {
+    "id": "car",
+    "name": "Car Dealership",
+    "categories": [
+      "sedan",
+      "suv",
+      "sports",
+      "supercar",
+      "motorcycle"
+    ]
+  },
+  {
+    "id": "service",
+    "name": "Service Station"
+  },
+  {
+    "id": "styling",
+    "name": "Styling Center"
+  },
+  {
+    "id": "tuning",
+    "name": "Tuning Center"
+  },
+  {
+    "id": "bar",
+    "name": "Bar"
+  },
+  {
+    "id": "club",
+    "name": "Club"
+  },
+  {
+    "id": "casino",
+    "name": "Casino"
+  },
+  {
+    "id": "ammo",
+    "name": "Gun Shop",
+    "items": [
+      "ammo"
+    ],
+    "ammoPrice": 50
+  },
+  {
+    "id": "pet",
+    "name": "Pets Store"
+  },
+  {
+    "id": "scooter",
+    "name": "Scooter Rental",
+    "pricePerScooter": 50
+  }
+]

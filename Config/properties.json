@@ -1,0 +1,20 @@
+[
+  {
+    "id": "house_001",
+    "type": "house",
+    "price": 75000,
+    "garage": false
+  },
+  {
+    "id": "house_002",
+    "type": "house",
+    "price": 100000,
+    "garage": true
+  },
+  {
+    "id": "estate_001",
+    "type": "estate",
+    "price": 500000,
+    "garage": true
+  }
+]

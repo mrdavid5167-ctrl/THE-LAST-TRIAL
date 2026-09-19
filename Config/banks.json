@@ -1,1 +1,18 @@
-
+[
+  {
+    "id": "bank_001",
+    "name": "Supreme Bank"
+  },
+  {
+    "id": "bank_002",
+    "name": "Empire Bank"
+  },
+  {
+    "id": "bank_003",
+    "name": "Royal Bank"
+  },
+  {
+    "id": "bank_004",
+    "name": "Capital Bank"
+  }
+]

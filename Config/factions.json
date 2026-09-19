@@ -1,0 +1,72 @@
+[
+  {
+    "id": "faction_01",
+    "name": "Crime Organization 1",
+    "type": "crime"
+  },
+  {
+    "id": "faction_02",
+    "name": "Crime Organization 2",
+    "type": "crime"
+  },
+  {
+    "id": "faction_03",
+    "name": "Crime Organization 3",
+    "type": "crime"
+  },
+  {
+    "id": "faction_04",
+    "name": "Crime Organization 4",
+    "type": "crime"
+  },
+  {
+    "id": "faction_05",
+    "name": "Crime Organization 5",
+    "type": "crime"
+  },
+  {
+    "id": "faction_06",
+    "name": "Crime Organization 6",
+    "type": "crime"
+  },
+  {
+    "id": "faction_07",
+    "name": "Police",
+    "type": "government"
+  },
+  {
+    "id": "faction_08",
+    "name": "FSB",
+    "type": "government"
+  },
+  {
+    "id": "faction_09",
+    "name": "MIA",
+    "type": "government"
+  },
+  {
+    "id": "faction_10",
+    "name": "Army",
+    "type": "government"
+  },
+  {
+    "id": "faction_11",
+    "name": "Government",
+    "type": "government"
+  },
+  {
+    "id": "faction_12",
+    "name": "Medical Department",
+    "type": "government"
+  },
+  {
+    "id": "faction_13",
+    "name": "Federal Security",
+    "type": "government"
+  },
+  {
+    "id": "faction_14",
+    "name": "City Administration",
+    "type": "government"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "vehicle_001",
+    "model": "Lamborghini",
+    "category": "supercar",
+    "price": 350000
+  },
+  {
+    "id": "vehicle_002",
+    "model": "Lamborghini Aventador",
+    "category": "supercar",
+    "price": 500000
+  },
+  {
+    "id": "vehicle_003",
+    "model": "Lamborghini Huracan",
+    "category": "supercar",
+    "price": 450000
+  },
+  {
+    "id": "vehicle_004",
+    "model": "Sedan",
+    "category": "sedan",
+    "price": 75000
+  },
+  {
+    "id": "vehicle_005",
+    "model": "SUV",
+    "category": "suv",
+    "price": 120000
+  },
+  {
+    "id": "vehicle_006",
+    "model": "Sports Car",
+    "category": "sports",
+    "price": 200000
+  },
+  {
+    "id": "vehicle_007",
+    "model": "Motorcycle",
+    "category": "motorcycle",
+    "price": 60000
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "name": "Supreme Empire",
+  "maxCharactersPerAccount": 5,
+  "uniqueNicknames": true,
+  "missionsOptional": true,
+  "fixedWeatherAndTime": true,
+  "jobs": {
+    "minimumPay": 2500,
+    "maximumPay": 8000,
+    "xpIntervalSeconds": 3600
+  },
+  "events": {
+    "announcementSeconds": 300
+  },
+  "factionWar": {
+    "durationSeconds": 900,
+    "pointsPerActivePlayerPerSecond": 1,
+    "winnerPrize": 25000,
+    "loserPrize": 5000,
+    "factionHourlyCost": 4000
+  },
+  "greenZones": {
+    "damageDisabled": true
+  },
+  "hungerAffectsHealth": true,
+  "admin": {
+    "ownerCanAssignChiefAdmins": true,
+    "playerIdsStartAt": 1
+  }
+}

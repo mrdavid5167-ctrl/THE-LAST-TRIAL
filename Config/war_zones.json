@@ -1,0 +1,17 @@
+[
+  {
+    "id": "war_001",
+    "name": "War Zone 1",
+    "durationSeconds": 900
+  },
+  {
+    "id": "war_002",
+    "name": "War Zone 2",
+    "durationSeconds": 900
+  },
+  {
+    "id": "war_003",
+    "name": "War Zone 3",
+    "durationSeconds": 900
+  }
+]

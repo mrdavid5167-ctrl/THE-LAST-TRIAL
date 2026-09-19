@@ -1,0 +1,12 @@
+[
+  {
+    "id": "pet_001",
+    "type": "dog",
+    "minimumHealth": 160
+  },
+  {
+    "id": "pet_002",
+    "type": "cat",
+    "minimumHealth": 160
+  }
+]

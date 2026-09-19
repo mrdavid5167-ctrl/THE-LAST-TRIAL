@@ -1,0 +1,12 @@
+[
+  {
+    "id": "business_001",
+    "type": "business",
+    "price": 300000
+  },
+  {
+    "id": "business_002",
+    "type": "shop",
+    "price": 450000
+  }
+]
